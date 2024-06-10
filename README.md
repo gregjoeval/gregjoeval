@@ -1,7 +1,7 @@
 <span>
 <p align="center">
   <a href="https://linkedin.com/in/gregjoeval" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/D5616AQE26FqHK2zt7w/profile-displaybackgroundimage-shrink_350_1400/0/1682384883714?e=1687996800&v=beta&t=g5kS4GQX3oCmuXhS0t30fCI59EmmNR8tMlO687_gVOE" alt="gregjoeval"  aspect-ratio="4/1" width="100%" />
+    <img align="center" src="https://media.licdn.com/dms/image/D5616AQE26FqHK2zt7w/profile-displaybackgroundimage-shrink_350_1400/0/1682384884167?e=1723680000&v=beta&t=Lvzo4AeUTAmzL50G4id-F-mQOEaNRTYr0n4Fum_xE_8" alt="gregjoeval"  aspect-ratio="4/1" width="100%" />
   </a>
 </p
 </span>
