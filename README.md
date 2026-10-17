@@ -3,7 +3,7 @@
   <a href="https://linkedin.com/in/gregjoeval" target="blank">
     <img align="center" src="./banner.jpg" alt="gregjoeval"  aspect-ratio="4/1" width="100%" />
   </a>
-</p
+</p>
 </span>
 
 <p align="center">
